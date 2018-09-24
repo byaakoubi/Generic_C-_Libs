@@ -1,0 +1,181 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{7505EF5D-2895-49FE-A07D-D9936F3460E7}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>USER_CONTROLS</RootNamespace>
+    <AssemblyName>USER_CONTROLS</AssemblyName>
+    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+    <Reference Include="WeifenLuo.WinFormsUI.Docking">
+      <HintPath>..\DockPanel_2.4_Bin\WeifenLuo.WinFormsUI.Docking.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="ComboBox.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="ComboBox.Designer.cs">
+      <DependentUpon>ComboBox.cs</DependentUpon>
+    </Compile>
+    <Compile Include="COMBO_BOX_ENTER_KEY.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="COMBO_BOX_ENTER_KEY.Designer.cs">
+      <DependentUpon>COMBO_BOX_ENTER_KEY.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PICTURE_BUTTON_3.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="PICTURE_BUTTON_3.Designer.cs">
+      <DependentUpon>PICTURE_BUTTON_3.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Date_Picker.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Date_Picker.Designer.cs">
+      <DependentUpon>Date_Picker.cs</DependentUpon>
+    </Compile>
+    <Compile Include="GradientPanel.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="GradientPanel.Designer.cs">
+      <DependentUpon>GradientPanel.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Label_Click.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Label_Click.Designer.cs">
+      <DependentUpon>Label_Click.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MaskedTextBox.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="OutlookBar.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="OutlookBar.Designer.cs">
+      <DependentUpon>OutlookBar.cs</DependentUpon>
+    </Compile>
+    <Compile Include="OutlookGrid\DataSourceManager.cs" />
+    <Compile Include="OutlookGrid\OutlookGrid.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="OutlookGrid\OutlookGrid.Designer.cs">
+      <DependentUpon>OutlookGrid.cs</DependentUpon>
+    </Compile>
+    <Compile Include="OutlookGrid\OutlookGridGroup.cs" />
+    <Compile Include="OutlookGrid\OutlookGridRow.cs" />
+    <Compile Include="Picture_Box_Perso.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Picture_Box_Perso.Designer.cs">
+      <DependentUpon>Picture_Box_Perso.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PICTURE_BUTTON.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="PICTURE_BUTTON.Designer.cs">
+      <DependentUpon>PICTURE_BUTTON.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PICTURE_BUTTON_2.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="PICTURE_BUTTON_2.Designer.cs">
+      <DependentUpon>PICTURE_BUTTON_2.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="TEXT_BOX_ENTER_KEY.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="TEXT_BOX_ENTER_KEY.Designer.cs">
+      <DependentUpon>TEXT_BOX_ENTER_KEY.cs</DependentUpon>
+    </Compile>
+    <Compile Include="TNumEditBox.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Service Include="{94E38DFF-614B-4cbd-B67C-F211BB35CE8B}" />
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="COMBO_BOX_ENTER_KEY.resx">
+      <DependentUpon>COMBO_BOX_ENTER_KEY.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PICTURE_BUTTON_3.resx">
+      <DependentUpon>PICTURE_BUTTON_3.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Date_Picker.resx">
+      <DependentUpon>Date_Picker.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Label_Click.resx">
+      <DependentUpon>Label_Click.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MaskedTextBox.resx">
+      <DependentUpon>MaskedTextBox.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="OutlookBar.resx">
+      <DependentUpon>OutlookBar.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Picture_Box_Perso.resx">
+      <DependentUpon>Picture_Box_Perso.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PICTURE_BUTTON.resx">
+      <DependentUpon>PICTURE_BUTTON.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PICTURE_BUTTON_2.resx">
+      <DependentUpon>PICTURE_BUTTON_2.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="TEXT_BOX_ENTER_KEY.resx">
+      <DependentUpon>TEXT_BOX_ENTER_KEY.cs</DependentUpon>
+    </EmbeddedResource>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

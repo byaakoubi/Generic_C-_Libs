@@ -1,0 +1,336 @@
+F:\FINAL\USER_CONTROLS\bin\Debug\USER_CONTROLS.dll
+F:\FINAL\USER_CONTROLS\bin\Debug\USER_CONTROLS.pdb
+F:\FINAL\USER_CONTROLS\obj\Debug\USER_CONTROLS.PICTURE_BUTTON.resources
+F:\FINAL\USER_CONTROLS\obj\Debug\USER_CONTROLS.Properties.Resources.resources
+F:\FINAL\USER_CONTROLS\obj\Debug\USER_CONTROLS.csproj.GenerateResource.Cache
+F:\FINAL\USER_CONTROLS\obj\Debug\USER_CONTROLS.dll
+F:\FINAL\USER_CONTROLS\obj\Debug\USER_CONTROLS.pdb
+D:\BILEL\Projets\logiciel_29_11_2014\FINAL\USER_CONTROLS\bin\Debug\USER_CONTROLS.dll
+D:\BILEL\Projets\logiciel_29_11_2014\FINAL\USER_CONTROLS\bin\Debug\USER_CONTROLS.pdb
+D:\BILEL\Projets\logiciel_29_11_2014\FINAL\USER_CONTROLS\obj\Debug\USER_CONTROLS.PICTURE_BUTTON.resources
+D:\BILEL\Projets\logiciel_29_11_2014\FINAL\USER_CONTROLS\obj\Debug\USER_CONTROLS.Properties.Resources.resources
+D:\BILEL\Projets\logiciel_29_11_2014\FINAL\USER_CONTROLS\obj\Debug\USER_CONTROLS.csproj.GenerateResource.Cache
+D:\BILEL\Projets\logiciel_29_11_2014\FINAL\USER_CONTROLS\obj\Debug\USER_CONTROLS.dll
+D:\BILEL\Projets\logiciel_29_11_2014\FINAL\USER_CONTROLS\obj\Debug\USER_CONTROLS.pdb
+F:\FINAL\USER_CONTROLS\obj\Debug\USER_CONTROLS.PICTURE_BUTTON_2.resources
+D:\BILEL\Projets\logiciel_29_11_2014\FINAL\USER_CONTROLS\obj\Debug\USER_CONTROLS.PICTURE_BUTTON_2.resources
+F:\FINAL\USER_CONTROLS\obj\Debug\USER_CONTROLS.TEXT_BOX_ENTER_KEY.resources
+F:\FINAL\USER_CONTROLS\obj\Debug\USER_CONTROLS.COMBO_BOX_ENTER_KEY.resources
+D:\BILEL\Projets\USER_CONTROLS\bin\Debug\USER_CONTROLS.dll
+D:\BILEL\Projets\USER_CONTROLS\bin\Debug\USER_CONTROLS.pdb
+D:\BILEL\Projets\USER_CONTROLS\obj\Debug\USER_CONTROLS.csprojResolveAssemblyReference.cache
+D:\BILEL\Projets\USER_CONTROLS\obj\Debug\USER_CONTROLS.COMBO_BOX_ENTER_KEY.resources
+D:\BILEL\Projets\USER_CONTROLS\obj\Debug\USER_CONTROLS.PICTURE_BUTTON.resources
+D:\BILEL\Projets\USER_CONTROLS\obj\Debug\USER_CONTROLS.PICTURE_BUTTON_2.resources
+D:\BILEL\Projets\USER_CONTROLS\obj\Debug\USER_CONTROLS.Properties.Resources.resources
+D:\BILEL\Projets\USER_CONTROLS\obj\Debug\USER_CONTROLS.TEXT_BOX_ENTER_KEY.resources
+D:\BILEL\Projets\USER_CONTROLS\obj\Debug\USER_CONTROLS.csproj.GenerateResource.Cache
+D:\BILEL\Projets\USER_CONTROLS\obj\Debug\USER_CONTROLS.dll
+D:\BILEL\Projets\USER_CONTROLS\obj\Debug\USER_CONTROLS.pdb
+D:\BILEL\Projets\LIBS\USER_CONTROLS\bin\Debug\USER_CONTROLS.dll
+D:\BILEL\Projets\LIBS\USER_CONTROLS\bin\Debug\USER_CONTROLS.pdb
+D:\BILEL\Projets\LIBS\USER_CONTROLS\obj\Debug\USER_CONTROLS.COMBO_BOX_ENTER_KEY.resources
+D:\BILEL\Projets\LIBS\USER_CONTROLS\obj\Debug\USER_CONTROLS.PICTURE_BUTTON.resources
+D:\BILEL\Projets\LIBS\USER_CONTROLS\obj\Debug\USER_CONTROLS.PICTURE_BUTTON_2.resources
+D:\BILEL\Projets\LIBS\USER_CONTROLS\obj\Debug\USER_CONTROLS.Properties.Resources.resources
+D:\BILEL\Projets\LIBS\USER_CONTROLS\obj\Debug\USER_CONTROLS.TEXT_BOX_ENTER_KEY.resources
+D:\BILEL\Projets\LIBS\USER_CONTROLS\obj\Debug\USER_CONTROLS.csproj.GenerateResource.Cache
+D:\BILEL\Projets\LIBS\USER_CONTROLS\obj\Debug\USER_CONTROLS.dll
+D:\BILEL\Projets\LIBS\USER_CONTROLS\obj\Debug\USER_CONTROLS.pdb
+G:\Projets\LIBS\USER_CONTROLS\bin\Debug\USER_CONTROLS.dll
+G:\Projets\LIBS\USER_CONTROLS\bin\Debug\USER_CONTROLS.pdb
+G:\Projets\LIBS\USER_CONTROLS\obj\Debug\USER_CONTROLS.COMBO_BOX_ENTER_KEY.resources
+G:\Projets\LIBS\USER_CONTROLS\obj\Debug\MaskedTextBox.MaskedTextBox.resources
+G:\Projets\LIBS\USER_CONTROLS\obj\Debug\USER_CONTROLS.PICTURE_BUTTON.resources
+G:\Projets\LIBS\USER_CONTROLS\obj\Debug\USER_CONTROLS.PICTURE_BUTTON_2.resources
+G:\Projets\LIBS\USER_CONTROLS\obj\Debug\USER_CONTROLS.Properties.Resources.resources
+G:\Projets\LIBS\USER_CONTROLS\obj\Debug\USER_CONTROLS.TEXT_BOX_ENTER_KEY.resources
+G:\Projets\LIBS\USER_CONTROLS\obj\Debug\USER_CONTROLS.csproj.GenerateResource.Cache
+G:\Projets\LIBS\USER_CONTROLS\obj\Debug\USER_CONTROLS.dll
+G:\Projets\LIBS\USER_CONTROLS\obj\Debug\USER_CONTROLS.pdb
+D:\BILEL\Projets\LIBS\USER_CONTROLS\obj\Debug\USER_CONTROLS.MaskedTextBox.resources
+D:\BILEL\Projets\LIBS\USER_CONTROLS\obj\Debug\USER_CONTROLS.Date_Picker.resources
+F:\Projets\LIBS\USER_CONTROLS\obj\Debug\USER_CONTROLS.COMBO_BOX_ENTER_KEY.resources
+F:\Projets\LIBS\USER_CONTROLS\obj\Debug\USER_CONTROLS.Date_Picker.resources
+F:\Projets\LIBS\USER_CONTROLS\obj\Debug\USER_CONTROLS.MaskedTextBox.resources
+F:\Projets\LIBS\USER_CONTROLS\obj\Debug\USER_CONTROLS.PICTURE_BUTTON.resources
+F:\Projets\LIBS\USER_CONTROLS\obj\Debug\USER_CONTROLS.PICTURE_BUTTON_2.resources
+F:\Projets\LIBS\USER_CONTROLS\obj\Debug\USER_CONTROLS.Properties.Resources.resources
+F:\Projets\LIBS\USER_CONTROLS\obj\Debug\USER_CONTROLS.TEXT_BOX_ENTER_KEY.resources
+F:\Projets\LIBS\USER_CONTROLS\obj\Debug\USER_CONTROLS.csproj.GenerateResource.Cache
+F:\Projets\LIBS\USER_CONTROLS\bin\Debug\USER_CONTROLS.dll
+F:\Projets\LIBS\USER_CONTROLS\bin\Debug\USER_CONTROLS.pdb
+F:\Projets\LIBS\USER_CONTROLS\obj\Debug\USER_CONTROLS.dll
+F:\Projets\LIBS\USER_CONTROLS\obj\Debug\USER_CONTROLS.pdb
+F:\Projets\LIBS\USER_CONTROLS\obj\Debug\USER_CONTROLS.Picture_Box_Perso.resources
+D:\BILEL\Projets\LIBS\USER_CONTROLS\obj\Debug\USER_CONTROLS.Picture_Box_Perso.resources
+D:\BILEL\Projets\LIBS\USER_CONTROLS\obj\Debug\USER_CONTROLS.csprojResolveAssemblyReference.cache
+E:\Bilel\LIBS\USER_CONTROLS\bin\Debug\USER_CONTROLS.dll
+E:\Bilel\LIBS\USER_CONTROLS\bin\Debug\USER_CONTROLS.pdb
+E:\Bilel\LIBS\USER_CONTROLS\obj\Debug\USER_CONTROLS.COMBO_BOX_ENTER_KEY.resources
+E:\Bilel\LIBS\USER_CONTROLS\obj\Debug\USER_CONTROLS.Date_Picker.resources
+E:\Bilel\LIBS\USER_CONTROLS\obj\Debug\USER_CONTROLS.MaskedTextBox.resources
+E:\Bilel\LIBS\USER_CONTROLS\obj\Debug\USER_CONTROLS.Picture_Box_Perso.resources
+E:\Bilel\LIBS\USER_CONTROLS\obj\Debug\USER_CONTROLS.PICTURE_BUTTON.resources
+E:\Bilel\LIBS\USER_CONTROLS\obj\Debug\USER_CONTROLS.PICTURE_BUTTON_2.resources
+E:\Bilel\LIBS\USER_CONTROLS\obj\Debug\USER_CONTROLS.Properties.Resources.resources
+E:\Bilel\LIBS\USER_CONTROLS\obj\Debug\USER_CONTROLS.TEXT_BOX_ENTER_KEY.resources
+E:\Bilel\LIBS\USER_CONTROLS\obj\Debug\USER_CONTROLS.csproj.GenerateResource.Cache
+E:\Bilel\LIBS\USER_CONTROLS\obj\Debug\USER_CONTROLS.dll
+E:\Bilel\LIBS\USER_CONTROLS\obj\Debug\USER_CONTROLS.pdb
+D:\BILEL\Projets\FINAL\LIBS\USER_CONTROLS\bin\Debug\USER_CONTROLS.dll
+D:\BILEL\Projets\FINAL\LIBS\USER_CONTROLS\bin\Debug\USER_CONTROLS.pdb
+D:\BILEL\Projets\FINAL\LIBS\USER_CONTROLS\obj\Debug\USER_CONTROLS.COMBO_BOX_ENTER_KEY.resources
+D:\BILEL\Projets\FINAL\LIBS\USER_CONTROLS\obj\Debug\USER_CONTROLS.Date_Picker.resources
+D:\BILEL\Projets\FINAL\LIBS\USER_CONTROLS\obj\Debug\USER_CONTROLS.MaskedTextBox.resources
+D:\BILEL\Projets\FINAL\LIBS\USER_CONTROLS\obj\Debug\USER_CONTROLS.Picture_Box_Perso.resources
+D:\BILEL\Projets\FINAL\LIBS\USER_CONTROLS\obj\Debug\USER_CONTROLS.PICTURE_BUTTON.resources
+D:\BILEL\Projets\FINAL\LIBS\USER_CONTROLS\obj\Debug\USER_CONTROLS.PICTURE_BUTTON_2.resources
+D:\BILEL\Projets\FINAL\LIBS\USER_CONTROLS\obj\Debug\USER_CONTROLS.Properties.Resources.resources
+D:\BILEL\Projets\FINAL\LIBS\USER_CONTROLS\obj\Debug\USER_CONTROLS.TEXT_BOX_ENTER_KEY.resources
+D:\BILEL\Projets\FINAL\LIBS\USER_CONTROLS\obj\Debug\USER_CONTROLS.csproj.GenerateResource.Cache
+D:\BILEL\Projets\FINAL\LIBS\USER_CONTROLS\obj\Debug\USER_CONTROLS.dll
+D:\BILEL\Projets\FINAL\LIBS\USER_CONTROLS\obj\Debug\USER_CONTROLS.pdb
+F:\FINAL\LIBS\USER_CONTROLS\bin\Debug\USER_CONTROLS.dll
+F:\FINAL\LIBS\USER_CONTROLS\bin\Debug\USER_CONTROLS.pdb
+F:\FINAL\LIBS\USER_CONTROLS\obj\Debug\USER_CONTROLS.COMBO_BOX_ENTER_KEY.resources
+F:\FINAL\LIBS\USER_CONTROLS\obj\Debug\USER_CONTROLS.Date_Picker.resources
+F:\FINAL\LIBS\USER_CONTROLS\obj\Debug\USER_CONTROLS.MaskedTextBox.resources
+F:\FINAL\LIBS\USER_CONTROLS\obj\Debug\USER_CONTROLS.Picture_Box_Perso.resources
+F:\FINAL\LIBS\USER_CONTROLS\obj\Debug\USER_CONTROLS.PICTURE_BUTTON.resources
+F:\FINAL\LIBS\USER_CONTROLS\obj\Debug\USER_CONTROLS.PICTURE_BUTTON_2.resources
+F:\FINAL\LIBS\USER_CONTROLS\obj\Debug\USER_CONTROLS.Properties.Resources.resources
+F:\FINAL\LIBS\USER_CONTROLS\obj\Debug\USER_CONTROLS.TEXT_BOX_ENTER_KEY.resources
+F:\FINAL\LIBS\USER_CONTROLS\obj\Debug\USER_CONTROLS.csproj.GenerateResource.Cache
+F:\FINAL\LIBS\USER_CONTROLS\obj\Debug\USER_CONTROLS.dll
+F:\FINAL\LIBS\USER_CONTROLS\obj\Debug\USER_CONTROLS.pdb
+F:\FINAL\LIBS\USER_CONTROLS\obj\Debug\OutlookStyleControls.OutlookBar.resources
+F:\FINAL\LIBS\USER_CONTROLS\obj\Debug\USER_CONTROLS.csprojResolveAssemblyReference.cache
+D:\BILEL\Projets\FINAL\LIBS\USER_CONTROLS\obj\Debug\OutlookStyleControls.OutlookBar.resources
+D:\BILEL\Projets\FINAL\LIBS\USER_CONTROLS\obj\Debug\USER_CONTROLS.csprojResolveAssemblyReference.cache
+D:\BILEL\Projets\GESTIONCOMMERCIALE\LIBS\USER_CONTROLS\bin\Debug\USER_CONTROLS.dll
+D:\BILEL\Projets\GESTIONCOMMERCIALE\LIBS\USER_CONTROLS\bin\Debug\USER_CONTROLS.pdb
+D:\BILEL\Projets\GESTIONCOMMERCIALE\LIBS\USER_CONTROLS\obj\Debug\USER_CONTROLS.COMBO_BOX_ENTER_KEY.resources
+D:\BILEL\Projets\GESTIONCOMMERCIALE\LIBS\USER_CONTROLS\obj\Debug\USER_CONTROLS.Date_Picker.resources
+D:\BILEL\Projets\GESTIONCOMMERCIALE\LIBS\USER_CONTROLS\obj\Debug\USER_CONTROLS.MaskedTextBox.resources
+D:\BILEL\Projets\GESTIONCOMMERCIALE\LIBS\USER_CONTROLS\obj\Debug\OutlookStyleControls.OutlookBar.resources
+D:\BILEL\Projets\GESTIONCOMMERCIALE\LIBS\USER_CONTROLS\obj\Debug\USER_CONTROLS.Picture_Box_Perso.resources
+D:\BILEL\Projets\GESTIONCOMMERCIALE\LIBS\USER_CONTROLS\obj\Debug\USER_CONTROLS.PICTURE_BUTTON.resources
+D:\BILEL\Projets\GESTIONCOMMERCIALE\LIBS\USER_CONTROLS\obj\Debug\USER_CONTROLS.PICTURE_BUTTON_2.resources
+D:\BILEL\Projets\GESTIONCOMMERCIALE\LIBS\USER_CONTROLS\obj\Debug\USER_CONTROLS.Properties.Resources.resources
+D:\BILEL\Projets\GESTIONCOMMERCIALE\LIBS\USER_CONTROLS\obj\Debug\USER_CONTROLS.TEXT_BOX_ENTER_KEY.resources
+D:\BILEL\Projets\GESTIONCOMMERCIALE\LIBS\USER_CONTROLS\obj\Debug\USER_CONTROLS.csproj.GenerateResource.Cache
+D:\BILEL\Projets\GESTIONCOMMERCIALE\LIBS\USER_CONTROLS\obj\Debug\USER_CONTROLS.dll
+D:\BILEL\Projets\GESTIONCOMMERCIALE\LIBS\USER_CONTROLS\obj\Debug\USER_CONTROLS.pdb
+D:\BILEL\Projets\GESTIONCOMMERCIALE\LIBS\USER_CONTROLS\bin\Debug\WeifenLuo.WinFormsUI.Docking.dll
+F:\Projets\GESTIONCOMMERCIALE\LIBS\USER_CONTROLS\bin\Debug\USER_CONTROLS.dll
+F:\Projets\GESTIONCOMMERCIALE\LIBS\USER_CONTROLS\bin\Debug\USER_CONTROLS.pdb
+F:\Projets\GESTIONCOMMERCIALE\LIBS\USER_CONTROLS\bin\Debug\WeifenLuo.WinFormsUI.Docking.dll
+F:\Projets\GESTIONCOMMERCIALE\LIBS\USER_CONTROLS\obj\Debug\USER_CONTROLS.COMBO_BOX_ENTER_KEY.resources
+F:\Projets\GESTIONCOMMERCIALE\LIBS\USER_CONTROLS\obj\Debug\USER_CONTROLS.Date_Picker.resources
+F:\Projets\GESTIONCOMMERCIALE\LIBS\USER_CONTROLS\obj\Debug\USER_CONTROLS.MaskedTextBox.resources
+F:\Projets\GESTIONCOMMERCIALE\LIBS\USER_CONTROLS\obj\Debug\OutlookStyleControls.OutlookBar.resources
+F:\Projets\GESTIONCOMMERCIALE\LIBS\USER_CONTROLS\obj\Debug\USER_CONTROLS.Picture_Box_Perso.resources
+F:\Projets\GESTIONCOMMERCIALE\LIBS\USER_CONTROLS\obj\Debug\USER_CONTROLS.PICTURE_BUTTON.resources
+F:\Projets\GESTIONCOMMERCIALE\LIBS\USER_CONTROLS\obj\Debug\USER_CONTROLS.PICTURE_BUTTON_2.resources
+F:\Projets\GESTIONCOMMERCIALE\LIBS\USER_CONTROLS\obj\Debug\USER_CONTROLS.Properties.Resources.resources
+F:\Projets\GESTIONCOMMERCIALE\LIBS\USER_CONTROLS\obj\Debug\USER_CONTROLS.TEXT_BOX_ENTER_KEY.resources
+F:\Projets\GESTIONCOMMERCIALE\LIBS\USER_CONTROLS\obj\Debug\USER_CONTROLS.csproj.GenerateResource.Cache
+F:\Projets\GESTIONCOMMERCIALE\LIBS\USER_CONTROLS\obj\Debug\USER_CONTROLS.dll
+F:\Projets\GESTIONCOMMERCIALE\LIBS\USER_CONTROLS\obj\Debug\USER_CONTROLS.pdb
+F:\Projets\GESTIONCOMMERCIALE\LIBS\USER_CONTROLS\obj\Debug\USER_CONTROLS.csprojResolveAssemblyReference.cache
+F:\Projets\GESTIONCOMMERCIALE\LIBS\USER_CONTROLS\obj\Debug\USER_CONTROLS.Label_Click.resources
+D:\BILEL\Projets\GESTIONCOMMERCIALE\LIBS\USER_CONTROLS\obj\Debug\USER_CONTROLS.Label_Click.resources
+D:\BILEL\Projets\GESTIONCOMMERCIALE\LIBS\USER_CONTROLS\obj\Debug\USER_CONTROLS.csprojResolveAssemblyReference.cache
+D:\BILEL\Projets\GestionCamion\LIBS\USER_CONTROLS\bin\Debug\USER_CONTROLS.dll
+D:\BILEL\Projets\GestionCamion\LIBS\USER_CONTROLS\bin\Debug\USER_CONTROLS.pdb
+D:\BILEL\Projets\GestionCamion\LIBS\USER_CONTROLS\bin\Debug\WeifenLuo.WinFormsUI.Docking.dll
+D:\BILEL\Projets\GestionCamion\LIBS\USER_CONTROLS\obj\Debug\USER_CONTROLS.COMBO_BOX_ENTER_KEY.resources
+D:\BILEL\Projets\GestionCamion\LIBS\USER_CONTROLS\obj\Debug\USER_CONTROLS.Date_Picker.resources
+D:\BILEL\Projets\GestionCamion\LIBS\USER_CONTROLS\obj\Debug\USER_CONTROLS.Label_Click.resources
+D:\BILEL\Projets\GestionCamion\LIBS\USER_CONTROLS\obj\Debug\USER_CONTROLS.MaskedTextBox.resources
+D:\BILEL\Projets\GestionCamion\LIBS\USER_CONTROLS\obj\Debug\OutlookStyleControls.OutlookBar.resources
+D:\BILEL\Projets\GestionCamion\LIBS\USER_CONTROLS\obj\Debug\USER_CONTROLS.Picture_Box_Perso.resources
+D:\BILEL\Projets\GestionCamion\LIBS\USER_CONTROLS\obj\Debug\USER_CONTROLS.PICTURE_BUTTON.resources
+D:\BILEL\Projets\GestionCamion\LIBS\USER_CONTROLS\obj\Debug\USER_CONTROLS.PICTURE_BUTTON_2.resources
+D:\BILEL\Projets\GestionCamion\LIBS\USER_CONTROLS\obj\Debug\USER_CONTROLS.Properties.Resources.resources
+D:\BILEL\Projets\GestionCamion\LIBS\USER_CONTROLS\obj\Debug\USER_CONTROLS.TEXT_BOX_ENTER_KEY.resources
+D:\BILEL\Projets\GestionCamion\LIBS\USER_CONTROLS\obj\Debug\USER_CONTROLS.csproj.GenerateResource.Cache
+D:\BILEL\Projets\GestionCamion\LIBS\USER_CONTROLS\obj\Debug\USER_CONTROLS.dll
+D:\BILEL\Projets\GestionCamion\LIBS\USER_CONTROLS\obj\Debug\USER_CONTROLS.pdb
+D:\BILEL\Projets\GestionCamion\LIBS\USER_CONTROLS\obj\Debug\USER_CONTROLS.PICTURE_BUTTON_3.resources
+G:\Projets\GestionCamion\LIBS\USER_CONTROLS\bin\Debug\USER_CONTROLS.dll
+G:\Projets\GestionCamion\LIBS\USER_CONTROLS\bin\Debug\USER_CONTROLS.pdb
+G:\Projets\GestionCamion\LIBS\USER_CONTROLS\bin\Debug\WeifenLuo.WinFormsUI.Docking.dll
+G:\Projets\GestionCamion\LIBS\USER_CONTROLS\obj\Debug\USER_CONTROLS.csprojResolveAssemblyReference.cache
+G:\Projets\GestionCamion\LIBS\USER_CONTROLS\obj\Debug\USER_CONTROLS.COMBO_BOX_ENTER_KEY.resources
+G:\Projets\GestionCamion\LIBS\USER_CONTROLS\obj\Debug\USER_CONTROLS.PICTURE_BUTTON_3.resources
+G:\Projets\GestionCamion\LIBS\USER_CONTROLS\obj\Debug\USER_CONTROLS.Date_Picker.resources
+G:\Projets\GestionCamion\LIBS\USER_CONTROLS\obj\Debug\USER_CONTROLS.Label_Click.resources
+G:\Projets\GestionCamion\LIBS\USER_CONTROLS\obj\Debug\USER_CONTROLS.MaskedTextBox.resources
+G:\Projets\GestionCamion\LIBS\USER_CONTROLS\obj\Debug\OutlookStyleControls.OutlookBar.resources
+G:\Projets\GestionCamion\LIBS\USER_CONTROLS\obj\Debug\USER_CONTROLS.Picture_Box_Perso.resources
+G:\Projets\GestionCamion\LIBS\USER_CONTROLS\obj\Debug\USER_CONTROLS.PICTURE_BUTTON.resources
+G:\Projets\GestionCamion\LIBS\USER_CONTROLS\obj\Debug\USER_CONTROLS.PICTURE_BUTTON_2.resources
+G:\Projets\GestionCamion\LIBS\USER_CONTROLS\obj\Debug\USER_CONTROLS.Properties.Resources.resources
+G:\Projets\GestionCamion\LIBS\USER_CONTROLS\obj\Debug\USER_CONTROLS.TEXT_BOX_ENTER_KEY.resources
+G:\Projets\GestionCamion\LIBS\USER_CONTROLS\obj\Debug\USER_CONTROLS.csproj.GenerateResource.Cache
+G:\Projets\GestionCamion\LIBS\USER_CONTROLS\obj\Debug\USER_CONTROLS.dll
+G:\Projets\GestionCamion\LIBS\USER_CONTROLS\obj\Debug\USER_CONTROLS.pdb
+F:\Projets\GestionCamion\LIBS\USER_CONTROLS\bin\Debug\USER_CONTROLS.dll
+F:\Projets\GestionCamion\LIBS\USER_CONTROLS\bin\Debug\USER_CONTROLS.pdb
+F:\Projets\GestionCamion\LIBS\USER_CONTROLS\bin\Debug\WeifenLuo.WinFormsUI.Docking.dll
+F:\Projets\GestionCamion\LIBS\USER_CONTROLS\obj\Debug\USER_CONTROLS.csprojResolveAssemblyReference.cache
+F:\Projets\GestionCamion\LIBS\USER_CONTROLS\obj\Debug\USER_CONTROLS.COMBO_BOX_ENTER_KEY.resources
+F:\Projets\GestionCamion\LIBS\USER_CONTROLS\obj\Debug\USER_CONTROLS.PICTURE_BUTTON_3.resources
+F:\Projets\GestionCamion\LIBS\USER_CONTROLS\obj\Debug\USER_CONTROLS.Date_Picker.resources
+F:\Projets\GestionCamion\LIBS\USER_CONTROLS\obj\Debug\USER_CONTROLS.Label_Click.resources
+F:\Projets\GestionCamion\LIBS\USER_CONTROLS\obj\Debug\USER_CONTROLS.MaskedTextBox.resources
+F:\Projets\GestionCamion\LIBS\USER_CONTROLS\obj\Debug\OutlookStyleControls.OutlookBar.resources
+F:\Projets\GestionCamion\LIBS\USER_CONTROLS\obj\Debug\USER_CONTROLS.Picture_Box_Perso.resources
+F:\Projets\GestionCamion\LIBS\USER_CONTROLS\obj\Debug\USER_CONTROLS.PICTURE_BUTTON.resources
+F:\Projets\GestionCamion\LIBS\USER_CONTROLS\obj\Debug\USER_CONTROLS.PICTURE_BUTTON_2.resources
+F:\Projets\GestionCamion\LIBS\USER_CONTROLS\obj\Debug\USER_CONTROLS.Properties.Resources.resources
+F:\Projets\GestionCamion\LIBS\USER_CONTROLS\obj\Debug\USER_CONTROLS.TEXT_BOX_ENTER_KEY.resources
+F:\Projets\GestionCamion\LIBS\USER_CONTROLS\obj\Debug\USER_CONTROLS.csproj.GenerateResource.Cache
+F:\Projets\GestionCamion\LIBS\USER_CONTROLS\obj\Debug\USER_CONTROLS.dll
+F:\Projets\GestionCamion\LIBS\USER_CONTROLS\obj\Debug\USER_CONTROLS.pdb
+F:\GestionCamion\LIBS\USER_CONTROLS\bin\Debug\USER_CONTROLS.dll
+F:\GestionCamion\LIBS\USER_CONTROLS\bin\Debug\USER_CONTROLS.pdb
+F:\GestionCamion\LIBS\USER_CONTROLS\bin\Debug\WeifenLuo.WinFormsUI.Docking.dll
+F:\GestionCamion\LIBS\USER_CONTROLS\obj\Debug\USER_CONTROLS.COMBO_BOX_ENTER_KEY.resources
+F:\GestionCamion\LIBS\USER_CONTROLS\obj\Debug\USER_CONTROLS.PICTURE_BUTTON_3.resources
+F:\GestionCamion\LIBS\USER_CONTROLS\obj\Debug\USER_CONTROLS.Date_Picker.resources
+F:\GestionCamion\LIBS\USER_CONTROLS\obj\Debug\USER_CONTROLS.Label_Click.resources
+F:\GestionCamion\LIBS\USER_CONTROLS\obj\Debug\USER_CONTROLS.MaskedTextBox.resources
+F:\GestionCamion\LIBS\USER_CONTROLS\obj\Debug\OutlookStyleControls.OutlookBar.resources
+F:\GestionCamion\LIBS\USER_CONTROLS\obj\Debug\USER_CONTROLS.Picture_Box_Perso.resources
+F:\GestionCamion\LIBS\USER_CONTROLS\obj\Debug\USER_CONTROLS.PICTURE_BUTTON.resources
+F:\GestionCamion\LIBS\USER_CONTROLS\obj\Debug\USER_CONTROLS.PICTURE_BUTTON_2.resources
+F:\GestionCamion\LIBS\USER_CONTROLS\obj\Debug\USER_CONTROLS.Properties.Resources.resources
+F:\GestionCamion\LIBS\USER_CONTROLS\obj\Debug\USER_CONTROLS.TEXT_BOX_ENTER_KEY.resources
+F:\GestionCamion\LIBS\USER_CONTROLS\obj\Debug\USER_CONTROLS.csproj.GenerateResource.Cache
+F:\GestionCamion\LIBS\USER_CONTROLS\obj\Debug\USER_CONTROLS.dll
+F:\GestionCamion\LIBS\USER_CONTROLS\obj\Debug\USER_CONTROLS.pdb
+I:\GestionCamion\LIBS\USER_CONTROLS\bin\Debug\USER_CONTROLS.dll
+I:\GestionCamion\LIBS\USER_CONTROLS\bin\Debug\USER_CONTROLS.pdb
+I:\GestionCamion\LIBS\USER_CONTROLS\bin\Debug\WeifenLuo.WinFormsUI.Docking.dll
+I:\GestionCamion\LIBS\USER_CONTROLS\obj\Debug\USER_CONTROLS.COMBO_BOX_ENTER_KEY.resources
+I:\GestionCamion\LIBS\USER_CONTROLS\obj\Debug\USER_CONTROLS.PICTURE_BUTTON_3.resources
+I:\GestionCamion\LIBS\USER_CONTROLS\obj\Debug\USER_CONTROLS.Date_Picker.resources
+I:\GestionCamion\LIBS\USER_CONTROLS\obj\Debug\USER_CONTROLS.Label_Click.resources
+I:\GestionCamion\LIBS\USER_CONTROLS\obj\Debug\USER_CONTROLS.MaskedTextBox.resources
+I:\GestionCamion\LIBS\USER_CONTROLS\obj\Debug\OutlookStyleControls.OutlookBar.resources
+I:\GestionCamion\LIBS\USER_CONTROLS\obj\Debug\USER_CONTROLS.Picture_Box_Perso.resources
+I:\GestionCamion\LIBS\USER_CONTROLS\obj\Debug\USER_CONTROLS.PICTURE_BUTTON.resources
+I:\GestionCamion\LIBS\USER_CONTROLS\obj\Debug\USER_CONTROLS.PICTURE_BUTTON_2.resources
+I:\GestionCamion\LIBS\USER_CONTROLS\obj\Debug\USER_CONTROLS.Properties.Resources.resources
+I:\GestionCamion\LIBS\USER_CONTROLS\obj\Debug\USER_CONTROLS.TEXT_BOX_ENTER_KEY.resources
+I:\GestionCamion\LIBS\USER_CONTROLS\obj\Debug\USER_CONTROLS.csproj.GenerateResource.Cache
+I:\GestionCamion\LIBS\USER_CONTROLS\obj\Debug\USER_CONTROLS.dll
+I:\GestionCamion\LIBS\USER_CONTROLS\obj\Debug\USER_CONTROLS.pdb
+I:\GestionCamion\LIBS\USER_CONTROLS\obj\Debug\USER_CONTROLS.csprojResolveAssemblyReference.cache
+F:\PC_HOME\GestionCamion\LIBS\USER_CONTROLS\bin\Debug\USER_CONTROLS.dll
+F:\PC_HOME\GestionCamion\LIBS\USER_CONTROLS\bin\Debug\USER_CONTROLS.pdb
+F:\PC_HOME\GestionCamion\LIBS\USER_CONTROLS\bin\Debug\WeifenLuo.WinFormsUI.Docking.dll
+F:\PC_HOME\GestionCamion\LIBS\USER_CONTROLS\obj\Debug\USER_CONTROLS.COMBO_BOX_ENTER_KEY.resources
+F:\PC_HOME\GestionCamion\LIBS\USER_CONTROLS\obj\Debug\USER_CONTROLS.PICTURE_BUTTON_3.resources
+F:\PC_HOME\GestionCamion\LIBS\USER_CONTROLS\obj\Debug\USER_CONTROLS.Date_Picker.resources
+F:\PC_HOME\GestionCamion\LIBS\USER_CONTROLS\obj\Debug\USER_CONTROLS.Label_Click.resources
+F:\PC_HOME\GestionCamion\LIBS\USER_CONTROLS\obj\Debug\USER_CONTROLS.MaskedTextBox.resources
+F:\PC_HOME\GestionCamion\LIBS\USER_CONTROLS\obj\Debug\OutlookStyleControls.OutlookBar.resources
+F:\PC_HOME\GestionCamion\LIBS\USER_CONTROLS\obj\Debug\USER_CONTROLS.Picture_Box_Perso.resources
+F:\PC_HOME\GestionCamion\LIBS\USER_CONTROLS\obj\Debug\USER_CONTROLS.PICTURE_BUTTON.resources
+F:\PC_HOME\GestionCamion\LIBS\USER_CONTROLS\obj\Debug\USER_CONTROLS.PICTURE_BUTTON_2.resources
+F:\PC_HOME\GestionCamion\LIBS\USER_CONTROLS\obj\Debug\USER_CONTROLS.Properties.Resources.resources
+F:\PC_HOME\GestionCamion\LIBS\USER_CONTROLS\obj\Debug\USER_CONTROLS.TEXT_BOX_ENTER_KEY.resources
+F:\PC_HOME\GestionCamion\LIBS\USER_CONTROLS\obj\Debug\USER_CONTROLS.csproj.GenerateResource.Cache
+F:\PC_HOME\GestionCamion\LIBS\USER_CONTROLS\obj\Debug\USER_CONTROLS.dll
+F:\PC_HOME\GestionCamion\LIBS\USER_CONTROLS\obj\Debug\USER_CONTROLS.pdb
+F:\PC_HOME\GestionBascule\LIBS\USER_CONTROLS\bin\Debug\USER_CONTROLS.dll
+F:\PC_HOME\GestionBascule\LIBS\USER_CONTROLS\bin\Debug\USER_CONTROLS.pdb
+F:\PC_HOME\GestionBascule\LIBS\USER_CONTROLS\bin\Debug\WeifenLuo.WinFormsUI.Docking.dll
+F:\PC_HOME\GestionBascule\LIBS\USER_CONTROLS\obj\Debug\USER_CONTROLS.COMBO_BOX_ENTER_KEY.resources
+F:\PC_HOME\GestionBascule\LIBS\USER_CONTROLS\obj\Debug\USER_CONTROLS.PICTURE_BUTTON_3.resources
+F:\PC_HOME\GestionBascule\LIBS\USER_CONTROLS\obj\Debug\USER_CONTROLS.Date_Picker.resources
+F:\PC_HOME\GestionBascule\LIBS\USER_CONTROLS\obj\Debug\USER_CONTROLS.Label_Click.resources
+F:\PC_HOME\GestionBascule\LIBS\USER_CONTROLS\obj\Debug\USER_CONTROLS.MaskedTextBox.resources
+F:\PC_HOME\GestionBascule\LIBS\USER_CONTROLS\obj\Debug\OutlookStyleControls.OutlookBar.resources
+F:\PC_HOME\GestionBascule\LIBS\USER_CONTROLS\obj\Debug\USER_CONTROLS.Picture_Box_Perso.resources
+F:\PC_HOME\GestionBascule\LIBS\USER_CONTROLS\obj\Debug\USER_CONTROLS.PICTURE_BUTTON.resources
+F:\PC_HOME\GestionBascule\LIBS\USER_CONTROLS\obj\Debug\USER_CONTROLS.PICTURE_BUTTON_2.resources
+F:\PC_HOME\GestionBascule\LIBS\USER_CONTROLS\obj\Debug\USER_CONTROLS.Properties.Resources.resources
+F:\PC_HOME\GestionBascule\LIBS\USER_CONTROLS\obj\Debug\USER_CONTROLS.TEXT_BOX_ENTER_KEY.resources
+F:\PC_HOME\GestionBascule\LIBS\USER_CONTROLS\obj\Debug\USER_CONTROLS.csproj.GenerateResource.Cache
+F:\PC_HOME\GestionBascule\LIBS\USER_CONTROLS\obj\Debug\USER_CONTROLS.dll
+F:\PC_HOME\GestionBascule\LIBS\USER_CONTROLS\obj\Debug\USER_CONTROLS.pdb
+F:\PC_HOME\GestionBascule\LIBS\USER_CONTROLS\obj\Debug\USER_CONTROLS.csprojResolveAssemblyReference.cache
+D:\BILEL\Projets\GestionBascule\LIBS\USER_CONTROLS\bin\Debug\USER_CONTROLS.dll
+D:\BILEL\Projets\GestionBascule\LIBS\USER_CONTROLS\bin\Debug\USER_CONTROLS.pdb
+D:\BILEL\Projets\GestionBascule\LIBS\USER_CONTROLS\bin\Debug\WeifenLuo.WinFormsUI.Docking.dll
+D:\BILEL\Projets\GestionBascule\LIBS\USER_CONTROLS\obj\Debug\USER_CONTROLS.COMBO_BOX_ENTER_KEY.resources
+D:\BILEL\Projets\GestionBascule\LIBS\USER_CONTROLS\obj\Debug\USER_CONTROLS.PICTURE_BUTTON_3.resources
+D:\BILEL\Projets\GestionBascule\LIBS\USER_CONTROLS\obj\Debug\USER_CONTROLS.Date_Picker.resources
+D:\BILEL\Projets\GestionBascule\LIBS\USER_CONTROLS\obj\Debug\USER_CONTROLS.Label_Click.resources
+D:\BILEL\Projets\GestionBascule\LIBS\USER_CONTROLS\obj\Debug\USER_CONTROLS.MaskedTextBox.resources
+D:\BILEL\Projets\GestionBascule\LIBS\USER_CONTROLS\obj\Debug\OutlookStyleControls.OutlookBar.resources
+D:\BILEL\Projets\GestionBascule\LIBS\USER_CONTROLS\obj\Debug\USER_CONTROLS.Picture_Box_Perso.resources
+D:\BILEL\Projets\GestionBascule\LIBS\USER_CONTROLS\obj\Debug\USER_CONTROLS.PICTURE_BUTTON.resources
+D:\BILEL\Projets\GestionBascule\LIBS\USER_CONTROLS\obj\Debug\USER_CONTROLS.PICTURE_BUTTON_2.resources
+D:\BILEL\Projets\GestionBascule\LIBS\USER_CONTROLS\obj\Debug\USER_CONTROLS.Properties.Resources.resources
+D:\BILEL\Projets\GestionBascule\LIBS\USER_CONTROLS\obj\Debug\USER_CONTROLS.TEXT_BOX_ENTER_KEY.resources
+D:\BILEL\Projets\GestionBascule\LIBS\USER_CONTROLS\obj\Debug\USER_CONTROLS.csproj.GenerateResource.Cache
+D:\BILEL\Projets\GestionBascule\LIBS\USER_CONTROLS\obj\Debug\USER_CONTROLS.dll
+D:\BILEL\Projets\GestionBascule\LIBS\USER_CONTROLS\obj\Debug\USER_CONTROLS.pdb
+D:\BILEL\Projets\GestionBascule - New\LIBS\USER_CONTROLS\bin\Debug\USER_CONTROLS.dll
+D:\BILEL\Projets\GestionBascule - New\LIBS\USER_CONTROLS\bin\Debug\USER_CONTROLS.pdb
+D:\BILEL\Projets\GestionBascule - New\LIBS\USER_CONTROLS\bin\Debug\WeifenLuo.WinFormsUI.Docking.dll
+D:\BILEL\Projets\GestionBascule - New\LIBS\USER_CONTROLS\obj\Debug\USER_CONTROLS.COMBO_BOX_ENTER_KEY.resources
+D:\BILEL\Projets\GestionBascule - New\LIBS\USER_CONTROLS\obj\Debug\USER_CONTROLS.PICTURE_BUTTON_3.resources
+D:\BILEL\Projets\GestionBascule - New\LIBS\USER_CONTROLS\obj\Debug\USER_CONTROLS.Date_Picker.resources
+D:\BILEL\Projets\GestionBascule - New\LIBS\USER_CONTROLS\obj\Debug\USER_CONTROLS.Label_Click.resources
+D:\BILEL\Projets\GestionBascule - New\LIBS\USER_CONTROLS\obj\Debug\USER_CONTROLS.MaskedTextBox.resources
+D:\BILEL\Projets\GestionBascule - New\LIBS\USER_CONTROLS\obj\Debug\OutlookStyleControls.OutlookBar.resources
+D:\BILEL\Projets\GestionBascule - New\LIBS\USER_CONTROLS\obj\Debug\USER_CONTROLS.Picture_Box_Perso.resources
+D:\BILEL\Projets\GestionBascule - New\LIBS\USER_CONTROLS\obj\Debug\USER_CONTROLS.PICTURE_BUTTON.resources
+D:\BILEL\Projets\GestionBascule - New\LIBS\USER_CONTROLS\obj\Debug\USER_CONTROLS.PICTURE_BUTTON_2.resources
+D:\BILEL\Projets\GestionBascule - New\LIBS\USER_CONTROLS\obj\Debug\USER_CONTROLS.Properties.Resources.resources
+D:\BILEL\Projets\GestionBascule - New\LIBS\USER_CONTROLS\obj\Debug\USER_CONTROLS.TEXT_BOX_ENTER_KEY.resources
+D:\BILEL\Projets\GestionBascule - New\LIBS\USER_CONTROLS\obj\Debug\USER_CONTROLS.csproj.GenerateResource.Cache
+D:\BILEL\Projets\GestionBascule - New\LIBS\USER_CONTROLS\obj\Debug\USER_CONTROLS.dll
+D:\BILEL\Projets\GestionBascule - New\LIBS\USER_CONTROLS\obj\Debug\USER_CONTROLS.pdb
+F:\PC_HOME\GestionBascule - New\LIBS\USER_CONTROLS\bin\Debug\USER_CONTROLS.dll
+F:\PC_HOME\GestionBascule - New\LIBS\USER_CONTROLS\bin\Debug\USER_CONTROLS.pdb
+F:\PC_HOME\GestionBascule - New\LIBS\USER_CONTROLS\bin\Debug\WeifenLuo.WinFormsUI.Docking.dll
+F:\PC_HOME\GestionBascule - New\LIBS\USER_CONTROLS\obj\Debug\USER_CONTROLS.COMBO_BOX_ENTER_KEY.resources
+F:\PC_HOME\GestionBascule - New\LIBS\USER_CONTROLS\obj\Debug\USER_CONTROLS.PICTURE_BUTTON_3.resources
+F:\PC_HOME\GestionBascule - New\LIBS\USER_CONTROLS\obj\Debug\USER_CONTROLS.Date_Picker.resources
+F:\PC_HOME\GestionBascule - New\LIBS\USER_CONTROLS\obj\Debug\USER_CONTROLS.Label_Click.resources
+F:\PC_HOME\GestionBascule - New\LIBS\USER_CONTROLS\obj\Debug\USER_CONTROLS.MaskedTextBox.resources
+F:\PC_HOME\GestionBascule - New\LIBS\USER_CONTROLS\obj\Debug\OutlookStyleControls.OutlookBar.resources
+F:\PC_HOME\GestionBascule - New\LIBS\USER_CONTROLS\obj\Debug\USER_CONTROLS.Picture_Box_Perso.resources
+F:\PC_HOME\GestionBascule - New\LIBS\USER_CONTROLS\obj\Debug\USER_CONTROLS.PICTURE_BUTTON.resources
+F:\PC_HOME\GestionBascule - New\LIBS\USER_CONTROLS\obj\Debug\USER_CONTROLS.PICTURE_BUTTON_2.resources
+F:\PC_HOME\GestionBascule - New\LIBS\USER_CONTROLS\obj\Debug\USER_CONTROLS.Properties.Resources.resources
+F:\PC_HOME\GestionBascule - New\LIBS\USER_CONTROLS\obj\Debug\USER_CONTROLS.TEXT_BOX_ENTER_KEY.resources
+F:\PC_HOME\GestionBascule - New\LIBS\USER_CONTROLS\obj\Debug\USER_CONTROLS.csproj.GenerateResource.Cache
+F:\PC_HOME\GestionBascule - New\LIBS\USER_CONTROLS\obj\Debug\USER_CONTROLS.dll
+F:\PC_HOME\GestionBascule - New\LIBS\USER_CONTROLS\obj\Debug\USER_CONTROLS.pdb
+D:\work\GestionBascule - New\LIBS\USER_CONTROLS\bin\Debug\USER_CONTROLS.dll
+D:\work\GestionBascule - New\LIBS\USER_CONTROLS\bin\Debug\USER_CONTROLS.pdb
+D:\work\GestionBascule - New\LIBS\USER_CONTROLS\bin\Debug\WeifenLuo.WinFormsUI.Docking.dll
+D:\work\GestionBascule - New\LIBS\USER_CONTROLS\obj\Debug\USER_CONTROLS.COMBO_BOX_ENTER_KEY.resources
+D:\work\GestionBascule - New\LIBS\USER_CONTROLS\obj\Debug\USER_CONTROLS.PICTURE_BUTTON_3.resources
+D:\work\GestionBascule - New\LIBS\USER_CONTROLS\obj\Debug\USER_CONTROLS.Date_Picker.resources
+D:\work\GestionBascule - New\LIBS\USER_CONTROLS\obj\Debug\USER_CONTROLS.Label_Click.resources
+D:\work\GestionBascule - New\LIBS\USER_CONTROLS\obj\Debug\USER_CONTROLS.MaskedTextBox.resources
+D:\work\GestionBascule - New\LIBS\USER_CONTROLS\obj\Debug\OutlookStyleControls.OutlookBar.resources
+D:\work\GestionBascule - New\LIBS\USER_CONTROLS\obj\Debug\USER_CONTROLS.Picture_Box_Perso.resources
+D:\work\GestionBascule - New\LIBS\USER_CONTROLS\obj\Debug\USER_CONTROLS.PICTURE_BUTTON.resources
+D:\work\GestionBascule - New\LIBS\USER_CONTROLS\obj\Debug\USER_CONTROLS.PICTURE_BUTTON_2.resources
+D:\work\GestionBascule - New\LIBS\USER_CONTROLS\obj\Debug\USER_CONTROLS.Properties.Resources.resources
+D:\work\GestionBascule - New\LIBS\USER_CONTROLS\obj\Debug\USER_CONTROLS.TEXT_BOX_ENTER_KEY.resources
+D:\work\GestionBascule - New\LIBS\USER_CONTROLS\obj\Debug\USER_CONTROLS.csproj.GenerateResource.Cache
+D:\work\GestionBascule - New\LIBS\USER_CONTROLS\obj\Debug\USER_CONTROLS.dll
+D:\work\GestionBascule - New\LIBS\USER_CONTROLS\obj\Debug\USER_CONTROLS.pdb
+F:\PC_HOME\GestionBascule - New\LIBS\USER_CONTROLS\obj\Debug\USER_CONTROLS.csprojResolveAssemblyReference.cache
